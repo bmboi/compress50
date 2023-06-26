@@ -3,7 +3,8 @@ a compression library that i tried to use to replace LZ78, using my own algorith
 <br>
 <h3>Usage</h3>
 html:
- ```html
+
+```html
 <script src="https://raw.githubusercontent.com/bmboi/compress50/main/index.js"></script>
 ```
 in your scripts:
